@@ -1,3 +1,5 @@
+The app is made based on the official [Learning Angular](https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF) YouTube playlist. The tutorial videos used Angular v15, so there are some differences related to storing image assets, using template URLs and inline templates, and *ngFor/@for directives.
+
 # HomesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
