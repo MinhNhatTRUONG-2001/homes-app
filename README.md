@@ -1,4 +1,5 @@
 The app is made based on the official [Learning Angular](https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF) YouTube playlist. The tutorial videos used Angular v15, so there are some differences related to storing image assets, using template URLs and inline templates, and *ngFor/@for directives.
+The app requires json-server Node package to be installed (see Part 8 of the playlist)
 
 # HomesApp
 
